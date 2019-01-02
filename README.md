@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/465ha93avpcbh125?svg=true)](https://ci.appveyor.com/project/fakoua/servicesplus)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffakoua%2FServicesPlus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffakoua%2FServicesPlus?ref=badge_shield)
 
 # Services+
 ============
@@ -30,3 +31,7 @@ Features:
 For Binary downloads and changelog:
 
 https://servicesplus.codeplex.com/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffakoua%2FServicesPlus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffakoua%2FServicesPlus?ref=badge_large)
